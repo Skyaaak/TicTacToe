@@ -2,6 +2,9 @@
 
 Une application React interactive du jeu du morpion*, avec plusieurs thèmes visuels (Pastel, Soleil, Océan, etc.), animations de victoire et égalité, historique des coups.
 
+![image](https://github.com/user-attachments/assets/6a1a9926-fcec-46f9-9965-332f12a11fde)
+
+
 ---
 
 ## ✨ Fonctionnalités
