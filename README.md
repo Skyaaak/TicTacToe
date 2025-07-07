@@ -21,5 +21,6 @@ cd TicTacToe
 npm install
 npm start
 
+---
 
-*Basé sur le tuto suivant : https://fr.react.dev/learn/tutorial-tic-tac-toe
+Basé sur le tuto suivant : https://fr.react.dev/learn/tutorial-tic-tac-toe
