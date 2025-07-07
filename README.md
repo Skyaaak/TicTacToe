@@ -1,6 +1,6 @@
 # 🎮 Jeu du Tic-Tac-Toe
 
-Une application React interactive du jeu du morpion, avec plusieurs thèmes visuels (Pastel, Soleil, Océan, etc.), animations de victoire et égalité, historique des coups.
+Une application React interactive du jeu du morpion*, avec plusieurs thèmes visuels (Pastel, Soleil, Océan, etc.), animations de victoire et égalité, historique des coups.
 
 ---
 
@@ -20,3 +20,6 @@ Une application React interactive du jeu du morpion, avec plusieurs thèmes visu
 cd TicTacToe
 npm install
 npm start
+
+
+*Basé sur le tuto suivant : https://fr.react.dev/learn/tutorial-tic-tac-toe
